@@ -1,0 +1,14 @@
+choices, donors, donations
+    prombt getInput
+    main function
+        if send a thank you
+            get donors name
+            get donations
+                if name not in donors
+                print new name and donations
+        if create report
+            oreredDict
+                number, total, avg
+                print ^
+
+        
